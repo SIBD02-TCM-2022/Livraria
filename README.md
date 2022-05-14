@@ -10,4 +10,4 @@ O nosso trabalho tem como foco principal uma livraria, onde é possível alugar 
 
 # Reports
 
-:[REI]
+:[REI](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rei00.md)
