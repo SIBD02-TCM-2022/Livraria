@@ -1,4 +1,4 @@
-# Relatório de Especificqação de Informação 
+# Relatório de Especificação de Informação 
 
 ## Índice
 
