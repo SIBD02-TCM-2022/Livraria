@@ -4,9 +4,9 @@
 
 :[Introdução](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rei01.md)
 
-:[Especificação de Requisitos]()
+:[Especificação de Requisitos](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rei02.md)
 
-:[Esquema Conceptual]()
+:[Esquema Conceptual](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rei03.md)
 
 ## Grupo SIBD02
 
