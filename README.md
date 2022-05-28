@@ -13,7 +13,7 @@ Pretendemos criar uma base de dados da livraria de modo a facilitar o acesso a t
 ## Reports
 
 :[REI](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rei00.md)
-:[REBD]()
+:[REBD](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rebd00.md)
 
 
 
