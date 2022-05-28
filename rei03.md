@@ -18,4 +18,4 @@
   
 ## Modelo E/A
 
- ![modelo ea](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/modelo.png)
+ ![modelo ea](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/EsquemaConceptual_Livraria.png)
