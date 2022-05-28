@@ -9,13 +9,14 @@
  
   
 ## Associações
-  - Contacta (FUNCIONARIO, ARMAZEM) 1/N T/T
-  - Procura (FUNCIONARIO, LIVRO) 1/N T/T
-  - Distribui (ARMAZEM, PEDIDO) M/N T/P
-  - Armazena (ARMAZEM, LIVRO) M/N T/T
-  - Efetua (CLIENTE, PEDIDO) 1/N P/P
-  - Aluga (CLIENTE, LIVRO) 1/1 P/P
+- Contacta (FUNCIONARIO, ARMAZEM) 1/N T/T
+- Procura (FUNCIONARIO, LIVRO) 1/1 T/T
+- Distribui (ARMAZEM, PEDIDO) M/N T/P
+- Armazena (ARMAZEM, LIVRO) M/N T/T
+- Efetua (CLIENTE, PEDIDO) 1/N P/P
+- Aluga (CLIENTE, LIVRO) 1/1 P/T
+
+
   
 ## Modelo E/A
-
- ![modelo ea](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/EsquemaConceptual_Livraria.png)
+![EsquemaConceptual_Livraria](https://user-images.githubusercontent.com/83698988/170834888-931d75a4-1646-40e4-b28c-5b748c56c63e.png)
