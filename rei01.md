@@ -1,7 +1,7 @@
 # C1: Introdução
 
 Para o nosso trabalho, pretendemos criar uma base de dados de uma livraria. Na nossa livraria estão
-disponíveis diversos livros de diferentes géneros, como romance, ação e aventura, thriller, mistério e
+disponíveis diversos livros de diferentes géneros, como romance, ação, aventura, thriller, mistério e
 fantasia. Na base de dados, é possível filtrar e procurar pelos livros não só através do seu género, mas
 também pelo título, ano de lançamento, autor, número de série, e preço. Isto é benéfico pois, desta forma,
 torna-se mais fácil para os funcionários procurarem e verificaram os livros existentes na loja de uma
@@ -28,7 +28,4 @@ pretende ou necessita colocar em stock. Para receberem os livros, os funcionári
 armazém e fornecer uma lista de todos os livros que vão precisar para aquela altura. Os armazéns
 encontram-se na base de dados e podem ser distinguidos através do nome e da morada.
 
-Os clientes também podem alugar livros ou efetuar pedidos de livros online, através do site da livraria, ou
-comprar na própria livraria. A lista de todos os pedidos fica registada na base de dados com o número da
-encomenda, peso e preço de transporte, sejam eles feitos pelos funcionários da livraria para o armazém ou
-pelos clientes, online ou na lojas.
+Os clientes também podem alugar ou comprar. Para alugar um livro, o cliente deve dirigir-se à livraria, pois não é possível fazê-lo online; para comprar um livro, o cliente deve fazê-lo online, através do site da livraria, uma vez que a compra em loja não é permitida. A lista de todos os pedidos online fica registada na base de dados com o número do pedido, peso e preço de transporte do mesmo.
