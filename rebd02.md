@@ -3,7 +3,7 @@
 ## Entidades
 - LIVRO (__nrSerie__, titulo, ano, nomeAutor, género, preco, stock)
 - CLIENTE (__ID__, nome, email)
-- ARMAZEM (__morada, nome)
+- ARMAZEM (__morada, nome__)
 - COMPRA (__nrCompra__, dataEnvio, dataReceção)
 
  
