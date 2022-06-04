@@ -1,10 +1,10 @@
 # C2: Esquema Conceptual
 
 ## Entidades
-- LIVRO (nrSerie, titulo, ano, nomeAutor, género, preco, stock)
-- CLIENTE (numero, nome, email)
-- ARMAZEM (morada, nome)
-- COMPRA (nrCompra, dataEnvio, dataReceção)
+- LIVRO (__nrSerie__, titulo, ano, nomeAutor, género, preco, stock)
+- CLIENTE (__ID__, nome, email)
+- ARMAZEM (__morada, nome)
+- COMPRA (__nrCompra__, dataEnvio, dataReceção)
 
  
   
