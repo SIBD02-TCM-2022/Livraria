@@ -6,9 +6,9 @@
 
 :[Esquema Conceptual](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rebd02.md)
 
-:[Normalização](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rebd04.md)
+:[Normalização](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rebd03.md)
 
-:[Esquema Relacional](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rebd03.md)
+:[Esquema Relacional](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rebd04.md)
 
 :[SQL](https://github.com/SIBD02-TCM-2022/Livraria/blob/main/rebd05.md)
 
