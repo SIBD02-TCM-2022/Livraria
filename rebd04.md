@@ -1,4 +1,4 @@
-# C2: Esquema Relacional
+# C4: Esquema Relacional
 
 - Entidades-Tipo
 
