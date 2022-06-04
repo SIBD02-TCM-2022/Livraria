@@ -81,7 +81,7 @@
 - chave primária: ID
 - chave estrageira: #ID --> Cliente
 
-#### Livro 
+#### Compra 
 | nrSerie       | titulo               | genero             | ano  | preco | nomeAutor                                    | stock | #ID --> Cliente |
 | ------------- | -------------------- | ------------------ | ---- | ----- | -------------------------------------------- | ----- | --------------- |
 | 9789899096424 | A hipótese do Amor   | romance            | 2022 | 17,50 | Ali Hazelwood                                | 10    | 1, 4, 5, 11     |
@@ -115,7 +115,7 @@
 - chaves primárias: nome, morada, nrCompra
 - chaves estrangeiras: #nome --> Armazém, #morada --> Armazém, #nrCompra --> Compra
 
-#### Envia
+#### Regista
 | #nome --> Armazém | #morada --> Armazém | #nrCompra --> Compra |
 | ----------------- | ------------------- | ------------------ |
 | Porto Livros | Rua do Leitor 345 | 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29 |
